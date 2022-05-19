@@ -23,10 +23,10 @@
 
 **页面展示**
 
-![截屏2022-05-18 下午7.41.07](/Users/bigsur/Desktop/截屏2022-05-18 下午7.41.07.png)
+![](https://github.com/bigboysuper6/movieApp_vue/blob/main/readmeImage/%E6%88%AA%E5%B1%8F2022-05-18%20%E4%B8%8B%E5%8D%887.40.33.png)
 
-![截屏2022-05-18 下午7.40.58](/Users/bigsur/Desktop/截屏2022-05-18 下午7.40.58.png)
+![](https://github.com/bigboysuper6/movieApp_vue/blob/main/readmeImage/%E6%88%AA%E5%B1%8F2022-05-18%20%E4%B8%8B%E5%8D%887.40.58.png)
 
-![截屏2022-05-18 下午7.40.33](/Users/bigsur/Desktop/截屏2022-05-18 下午7.40.33.png)
+![](https://github.com/bigboysuper6/movieApp_vue/blob/main/readmeImage/%E6%88%AA%E5%B1%8F2022-05-18%20%E4%B8%8B%E5%8D%887.41.07.png)
 
-![截屏2022-05-19 上午9.56.03](/Users/bigsur/Desktop/截屏2022-05-19 上午9.56.03.png)
+![](https://github.com/bigboysuper6/movieApp_vue/blob/main/readmeImage/%E6%88%AA%E5%B1%8F2022-05-19%20%E4%B8%8A%E5%8D%889.56.03.png)
