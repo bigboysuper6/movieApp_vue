@@ -6,6 +6,14 @@
 
 后台是用原来的，主要是nodejs实现，需要安装mongodb，附上github链接 [node14.17.4可运行](https://github.com/mdarif/vidly-api-node)
 
+运行项目
+
+```node
+npm install 
+
+npm run dev
+```
+
 **主要功能**
 
 + 登录和登出
@@ -30,3 +38,4 @@
 ![](https://github.com/bigboysuper6/movieApp_vue/blob/main/readmeImage/%E6%88%AA%E5%B1%8F2022-05-18%20%E4%B8%8B%E5%8D%887.41.07.png)
 
 ![](https://github.com/bigboysuper6/movieApp_vue/blob/main/readmeImage/%E6%88%AA%E5%B1%8F2022-05-19%20%E4%B8%8A%E5%8D%889.56.03.png)
+
